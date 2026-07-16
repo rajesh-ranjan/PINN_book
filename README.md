@@ -49,6 +49,7 @@ jupyter nbconvert --to notebook --execute ch03/lotka_volterra.ipynb
 ### Chapter 4 — Where PINNs excel: the use cases
 - `ch04/inverse_wave_speed.ipynb` — inverse problem: recover one coefficient
 - `ch04/inverse_two_parameters.ipynb` — inverse problem: recover two coefficients
+- `ch04/inverse_kinetics.ipynb` — inverse problem: reaction rate constants from concentration data (A→B→C)
 - `ch04/highdim_poisson.ipynb` — a high-dimensional Poisson equation
 - `ch04/euler_bernoulli_beam.ipynb` — a fourth-order PDE (Euler–Bernoulli beam)
 - `ch04/parametric_surrogate.ipynb` — a parametric surrogate (one network, many problems)
